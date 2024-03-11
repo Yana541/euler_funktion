@@ -4,7 +4,7 @@
 
 ### Definition
 
-Euler's totient function `phi(n)` (sometimes denoted as `varphi(n)` or `phi(n)` is the number of positive integers less than or equal to `n` that are coprime to ` n`. In other words, it is the count of integers in the range `[1, n]` whose greatest common divisor with ` n ` is 1.
+Euler's totient function `phi(n)` (sometimes denoted as `phi(n)` is the number of positive integers less than or equal to `n` that are coprime to ` n`. In other words, it is the count of integers in the range `[1, n]` whose greatest common divisor with ` n ` is 1.
 
 The first few values of this function (A000010 in the OEIS) are:
 
